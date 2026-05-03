@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "Shoyo Hinata",
+    "team": "Karasuno",
+    "position": "Bloqueador Central",
+    "number": 10,
+    "description": "El 'Señuelo Definitivo', con una increíble capacidad de salto y energía ilimitada.",
+    "image": "https://i.pinimg.com/736x/c1/77/43/c1774357f7d3627d70423f71f59a2697.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Tobio Kageyama",
+    "team": "Karasuno",
+    "position": "Armador",
+    "number": 9,
+    "description": "El 'Rey de la Cancha', un armador genio con una precisión impecable.",
+    "image": "https://i.pinimg.com/736x/18/a2/b5/18a2b5217f3738a1098763efa13264d1.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Kenma Kozume",
+    "team": "Nekoma",
+    "position": "Armador",
+    "number": 5,
+    "description": "El 'Cerebro' de Nekoma, un estratega silencioso que ve el juego como un videojuego.",
+    "image": "https://i.pinimg.com/1200x/32/c6/92/32c6927f98f6f6ecbeef698c61949dec.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Tetsuro Kuroo",
+    "team": "Nekoma",
+    "position": "Bloqueador Central",
+    "number": 1,
+    "description": "El 'Capitán Astuto', un maestro del bloqueo y del juego psicológico.",
+    "image": "https://i.pinimg.com/736x/0e/a0/f1/0ea0f1539a19f0cb134459309fc8353f.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Kotaro Bokuto",
+    "team": "Fukurodani",
+    "position": "Ace / Atacante Exterior",
+    "number": 4,
+    "description": "Uno de los cinco mejores ases del país, conocido por sus potentes remates y su 'modo emo'.",
+    "image": "https://i.pinimg.com/1200x/10/e7/4e/10e74e9737f7416ecb4d1947fba84a95.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Keiji Akaashi",
+    "team": "Fukurodani",
+    "position": "Armador",
+    "number": 5,
+    "description": "Un armador tranquilo y sereno que maneja perfectamente los cambios de ánimo de Bokuto.",
+    "image": "https://i.pinimg.com/1200x/b0/90/3d/b0903dade3bfceda72a819e42e1a8f89.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Atsumu Miya",
+    "team": "Inarizaki",
+    "position": "Armador",
+    "number": 7,
+    "description": "El mejor armador de secundaria en Japón, conocido por sus saques de 'doble ejecución'.",
+    "image": "https://i.pinimg.com/736x/d8/c4/e2/d8c4e2fb8a345584585b3d791ab892cc.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Shinsuke Kita",
+    "team": "Inarizaki",
+    "position": "Punta Receptor / Capitán",
+    "number": 1,
+    "description": "Un capitán que lidera con constancia y disciplina más que con jugadas llamativas.",
+    "image": "https://i.pinimg.com/736x/6d/43/4a/6d434a3f7f23dd7eba6f92872860f424.jpg"
+  }
+]
